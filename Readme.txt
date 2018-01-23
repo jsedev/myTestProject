@@ -1,0 +1,1 @@
+This project is intendent for self-education.
